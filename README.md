@@ -15,7 +15,7 @@ The code base, quiz questions and diagrams are taken from the [Deep Learning Spe
 
 ### Course 1: Neural Networks and Deep Learning
 
-##### What we we learned ?
+##### What we have learned ?
 
 - Introduction to Deep Learning
     * Analyze the major trends driving the rise of deep learning, and give examples of where and how it is applied today.
@@ -36,7 +36,7 @@ The code base, quiz questions and diagrams are taken from the [Deep Learning Spe
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 
-##### What we we learned ?
+##### What we have learned ?
 
 - Practical Aspects of Deep Learning
   *  Discover and experiment with a variety of different initialization methods, apply L2 regularization and dropout to avoid model overfitting, then apply gradient checking to identify errors in a fraud detection model.
@@ -54,7 +54,7 @@ The code base, quiz questions and diagrams are taken from the [Deep Learning Spe
 
 ### Course 3: Structuring Machine Learning Projects
 
-##### What we we learned ?
+##### What we learned ?
 - How to build a successful machine learning project and get to practice decision-making as a machine learning project leader. 
 - Diagnose errors in a machine learning system; prioritize strategies for reducing errors; understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance; and apply end-to-end learning, transfer learning, and multi-task learning.
 
@@ -64,3 +64,30 @@ The code base, quiz questions and diagrams are taken from the [Deep Learning Spe
 - Machine Learning
 - Multi-Task Learning
 - Decision-Making
+
+### Course 4: Convolutional Neural Networks
+
+##### What we have learned ?
+- Understand how computer vision has evolved and become familiar with its exciting applications such as autonomous driving, face recognition, reading radiology images, and more.
+- Build a convolutional neural network, including recent variations such as residual networks; apply convolutional networks to visual detection and recognition tasks; and use neural style transfer to generate art and apply these algorithms to a variety of image, video, and other 2D or 3D data. 
+
+##### Obtained Skills
+- Deep Learning
+- Facial Recognition System
+- Convolutional Neural Network
+- Tensorflow
+- Object Detection and Segmentation
+
+### Course 5: Sequence Models
+
+##### What we have learned ?
+- Become familiar with sequence models and their exciting applications such as speech recognition, music synthesis, chatbots, machine translation, natural language processing (NLP), and more. 
+- Build and train Recurrent Neural Networks (RNNs) and commonly-used variants such as GRUs and LSTMs; apply RNNs to Character-level Language Modeling; gain experience with natural language processing and Word Embeddings; and use HuggingFace tokenizers and transformer models to solve different NLP tasks such as NER and Question Answering.
+
+##### Obtained Skills
+- Natural Language Processing
+- Long Short Term Memory (LSTM)
+- Gated Recurrent Unit (GRU)
+- Recurrent Neural Network
+- Attention Models
+- 
