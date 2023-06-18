@@ -51,3 +51,16 @@ The code base, quiz questions and diagrams are taken from the [Deep Learning Spe
 - Mathematical Optimization
 - Hyperparameter tuning
 
+
+### Course 3: Structuring Machine Learning Projects
+
+##### What we we learned ?
+- How to build a successful machine learning project and get to practice decision-making as a machine learning project leader. 
+- Diagnose errors in a machine learning system; prioritize strategies for reducing errors; understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance; and apply end-to-end learning, transfer learning, and multi-task learning.
+
+##### Obtained Skills
+- Deep Learning
+- Inductive Transfer
+- Machine Learning
+- Multi-Task Learning
+- Decision-Making
